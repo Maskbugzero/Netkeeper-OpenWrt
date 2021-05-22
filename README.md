@@ -15,6 +15,7 @@ SSH 连接到 Actions
 - [telegram](https://t.me/Maskbugzero)
 ## 基于
 - [feed-netkeeper](https://github.com/CCnut/feed-netkeeper)
+- [SingleNet-Robot](https://github.com/kuretru/SingleNet-Robot)
 - [Microsoft Azure](https://azure.microsoft.com)
 - [GitHub Actions](https://github.com/features/actions)
 - [OpenWrt](https://github.com/openwrt/openwrt)
