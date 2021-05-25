@@ -1,6 +1,5 @@
 # Actions-OpenWrt
-使用 GitHub Actions 云编译 带有 闪讯拨号插件（Netkeeper）的OpenWrt编译项目——适用于软路由x86 64
-默认适用于软路由x86 64
+使用 GitHub Actions 云编译 带有 闪讯拨号插件（Netkeeper）的OpenWrt编译项目——适用于软路由x86 64、K2P、K2T、ghl
 ## Tips
 SSH 连接到 Actions
 - 复制 SSH 连接命令粘贴到终端内执行，或者复制链接在浏览器中打开使用网页终端。（网页终端可能会遇到黑屏的情况，按 Ctrl+C 即可）
