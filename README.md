@@ -6,7 +6,7 @@ SSH 连接到 Actions
 - cd openwrt && make menuconfig
 - 完成后按Ctrl+D组合键或执行exit命令退出，后续编译工作将自动进行。
 ## 默认编译
-- 用户名：root 密码为空 管理IP：192.168.2.1
+- 用户名：root 密码为空 管理IP：192.168.1.1
 ## 使用方法
 具体请看[wiki](https://github.com/Maskbugzero/lede-Maskbugzero/wiki)
 - [Netkeeper插件使用说明](https://github.com/Maskbugzero/Netkeeper-OpenWrt/wiki/Netkeeper%E6%8F%92%E4%BB%B6%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)
