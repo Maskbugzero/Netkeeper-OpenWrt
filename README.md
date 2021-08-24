@@ -8,12 +8,8 @@ SSH 连接到 Actions
 ## 默认编译
 - 用户名：root 密码为空 管理IP：192.168.1.1
 ## 使用方法
-具体请看[wiki](https://github.com/Maskbugzero/lede-Maskbugzero/wiki)
-- [Netkeeper插件使用说明](https://github.com/Maskbugzero/Netkeeper-OpenWrt/wiki/Netkeeper%E6%8F%92%E4%BB%B6%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)
-- [自动获取闪讯密码并填写](https://github.com/Maskbugzero/Netkeeper-OpenWrt/wiki/%E8%87%AA%E5%8A%A8%E8%8E%B7%E5%8F%96%E9%97%AA%E8%AE%AF%E5%AF%86%E7%A0%81%E5%B9%B6%E5%A1%AB%E5%86%99)
-- [项目说明](https://github.com/Maskbugzero/Netkeeper-OpenWrt/wiki/%E9%A1%B9%E7%9B%AE%E8%AF%B4%E6%98%8E)
-## 个人联系方式
-- [telegram](https://t.me/Maskbugzero)
+具体方法请点击 [文档](https://maskbugzero.tk/2020/rATl/)
+也可自行查看wiki
 ## 基于
 - [feed-netkeeper](https://github.com/CCnut/feed-netkeeper)
 - [SingleNet-Robot](https://github.com/kuretru/SingleNet-Robot)
