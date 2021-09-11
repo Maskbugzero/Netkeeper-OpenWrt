@@ -8,7 +8,7 @@ SSH 连接到 Actions
 ## 默认编译
 - 用户名：root 密码为空 管理IP：192.168.1.1
 ## 使用方法
-具体方法请点击 [文档](https://5772447.xyz/2020/rATl/)
+具体方法请点击 [文档](https://blog.5772447.xyz/rATl/)
 也可自行查看wiki
 ## 基于
 - [feed-netkeeper](https://github.com/CCnut/feed-netkeeper)
