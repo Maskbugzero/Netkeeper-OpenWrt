@@ -1,6 +1,5 @@
 # Netkeeper-OpenWrt
-[![Lean x64](https://github.com/Maskbugzero/Netkeeper-OpenWrt/actions/workflows/x64.yml/badge.svg)](https://github.com/Maskbugzero/Netkeeper-OpenWrt/actions/workflows/x64.yml)
-[![Update Checker](https://github.com/Maskbugzero/Netkeeper-OpenWrt/actions/workflows/update-checker.yml/badge.svg)](https://github.com/Maskbugzero/Netkeeper-OpenWrt/actions/workflows/update-checker.yml)
+[![Lean x64](https://github.com/Maskbugzero/Netkeeper-OpenWrt/actions/workflows/Lean%20x64.yml/badge.svg)](https://github.com/Maskbugzero/Netkeeper-OpenWrt/actions/workflows/Lean%20x64.yml)
 
 使用 GitHub Actions 云编译 带有 闪讯拨号插件（Netkeeper）的OpenWrt编译项目——适用于x86_64。
 ## Tips
