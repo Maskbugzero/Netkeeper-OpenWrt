@@ -1,7 +1,7 @@
 # Netkeeper-OpenWrt
 [![Lean x64](https://github.com/Maskbugzero/Netkeeper-OpenWrt/actions/workflows/Lean%20x64.yml/badge.svg)](https://github.com/Maskbugzero/Netkeeper-OpenWrt/actions/workflows/Lean%20x64.yml)
 
-使用 GitHub Actions 云编译 带有 闪讯拨号插件（Netkeeper）的OpenWrt编译项目——适用于x86_64。
+使用 GitHub Actions 云编译 带有 闪讯拨号插件（Netkeeper）的OpenWrt编译项目。
 ## Tips
 SSH 连接到 Actions
 - 复制 SSH 连接命令粘贴到终端内执行，或者复制链接在浏览器中打开使用网页终端。（网页终端可能会遇到黑屏的情况，按 Ctrl+C 即可）
