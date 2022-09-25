@@ -11,8 +11,6 @@
 name: Lean x64
 
 on:
-  schedule:
-    - cron: 0 0 1 * *
   workflow_dispatch:
     inputs:
       ssh:
